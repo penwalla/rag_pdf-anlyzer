@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+langchain-google-genai
+langchain-community
+langchain-core
+elevenlabs
+pydantic
+python-dotenv
+PyPDF2
+google-generativeai>=0.4.1
